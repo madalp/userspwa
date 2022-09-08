@@ -1,27 +1,27 @@
 {
-  "name": "userspwa",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "serve": "http-server -p 1336 build -c-1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/madalp/userspwa.git"
-  },
-  "bugs": {
-    "url": "https://github.com/madalp/userspwa/issues"
-  },
-  "homepage": "https://github.com/madalp/userspwa#readme",
-  "description": "",
-  "devDependencies": {
-    "mysql": "^2.18.1"
-  },
-  "dependencies": {
-    "build": "^0.1.4",
-    "test": "^3.2.1"
-  }
+    "name": "userspwa",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "serve": "http-server -p 1336 build -c-1"
+    },
+    "keywords": [],
+    "author": "Mamadou diallo",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/madalp/userspwa.git"
+    },
+    "bugs": {
+        "url": "https://github.com/madalp/userspwa/issues"
+    },
+    "homepage": "https://github.com/madalp/userspwa#readme",
+    "description": "",
+    "devDependencies": {
+        "mysql": "^2.18.1"
+    },
+    "dependencies": {
+        "build": "^0.1.4",
+        "test": "^3.2.1"
+    }
 }
